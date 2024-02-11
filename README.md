@@ -1,5 +1,5 @@
 # Resume
-Welcome to the repository for my personal resume website. This website serves as an online portfolio and showcases my professional experience, skills, and projects. Feel free to explore and learn more about my background and capabilities.
+Welcome to the repository for my personal resume website. This website serves as an online portfolio and showcases my professional experience, skills, and projects. Feel free to explore and learn more about my background and capabilities.It is done just to be used as a template for users.
 
 ## Table of Contents
 
@@ -24,17 +24,15 @@ Feel free to use this repository as a template for your own resume website or as
 ## Features
 
 - **Responsive Design:** The website is built with responsiveness in mind to ensure a seamless experience across various devices and screen sizes.
-- **Interactive Sections:** Utilizes JavaScript to create interactive sections, such as a skills chart and project carousel, enhancing user engagement.
 - **Project Showcase:** Highlights key projects with details, including descriptions, technologies used, and links to the project repositories or live demos.
-- **Contact Form:** Integrated contact form for easy communication. Users can reach out to me directly through the website.
+  
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- [Library/Framework Name]
-- [Other Technologies]
+- React
 
 ## Getting Started
 
